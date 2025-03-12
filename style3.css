@@ -1,0 +1,19 @@
+h1{
+    /*background-color: skyblue ;
+    chinh mau nen bat ky*/
+    background: linear-gradient(to right,  skyblue,pink);
+    /* mix mau nen mac dinh lan luot tu tren xuong (se bi lap lai do chi mix den het text)*/
+    background-repeat: no-repeat;
+    /* chi mix den het text*/
+    background-attachment: fixed;
+    /*mix ca nen*/
+}
+/* tuong tu nhu voi cac the nhu h1,p,.... */
+body{
+    background-image: url("picturets.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    /* dat anh o giua*/
+    background-size: cover;
+}

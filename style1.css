@@ -1,0 +1,10 @@
+p{
+    font-family: sans-serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* nếu font đầu không tồn tại thì sẽ tự động chuyển sang font kế tiếp */
+    font-size: 16px; /* co chu */
+    font-style: italic; /* phong cach chu */
+    font-weight: bold; /* do dam cua chu */
+    text-decoration: dotted underline;/* gach chan chu*/
+    
+}
+

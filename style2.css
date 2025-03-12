@@ -1,0 +1,10 @@
+p{
+    border-style: solid;/*kieu le bao quanh*/
+    border-width: 5px;/*do rong cua le*/
+    border-color: red;/*mau le*/
+    border-radius: 10px;/*hinh dang le*/
+    padding: 10px;/*khoang cach tu conten den border*/
+    border-top-color: aliceblue;/*chinh mau cho le ben tren*/
+    /*border-(tren/duoi/trai/phai)-thuoc tinh*/
+    
+}

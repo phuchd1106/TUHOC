@@ -1,0 +1,14 @@
+#BOX1{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    background-color: yellow;
+}
+#BOX2{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    background-color: rgb(255, 68, 0);
+    margin-top: 20px;
+    padding: 10px;
+}
