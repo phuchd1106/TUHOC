@@ -1,0 +1,14 @@
+@media all and (max-width: 768px){
+    h1{
+        color: red;
+    }
+    /* <768px se hien chu mau do*/
+
+}
+@media all and (max-width: 320px){
+    h1{
+        color: pink;
+    }
+    /* <320px se hien chu mau do*/
+    
+}

@@ -1,0 +1,5 @@
+h1{
+    text-shadow: 5px 5px 5px red, -5px -5px 5px pink;
+              /* phai duoi mo mau*/
+    box-shadow: 10px 10px 5px black ;
+}

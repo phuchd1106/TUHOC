@@ -1,0 +1,12 @@
+button:hover{
+    background-color: brown;
+    /* di chuot qua button hien mau brown*/
+}
+button:active{
+    background-color: pink;
+    /* khi click chuot vao se hien mau hong*/
+}
+li:nth-child(3n){
+    color: red;
+    /* odd la le,even la chan, 3n la thu 3n*/
+}
